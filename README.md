@@ -9,5 +9,5 @@ Sample output :arrow_down: <br/>
 ![](images/loginSuccess.JPG)
 ![](images/hover.JPG)
 ###### Display text:
-###### If the user is sad, the app will try to make them happy by giving a quote that is relevant to their state of emotions.
+###### If the user is sad/unloved, the app will try to make them happy by giving a quote that is relevant to their state of emotions.
 ![](images/displayText.JPG)
