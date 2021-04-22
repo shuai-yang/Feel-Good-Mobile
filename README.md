@@ -1,5 +1,5 @@
 # Feel-Good-Mobile-App
-Sample output :arrow_down: <br/>
+Snip of my output :arrow_down: <br/>
 ###### Login screens
 ![](images/login_loginFail.JPG)
 ###### Sign up screens
